@@ -1,5 +1,5 @@
-# ⚠️⚠️⚠️IMPORTANT NOTICE, PLEASE READ BEFORE USING/ADDING TO THIS REPO⚠️⚠️⚠️
+# documentation
+This repository contains all documentation that will be used across multiple labs. For lab-specific documentation, refer to that lab repo's ```Docs/``` folder.
 
-Any documentation for Lab2 should go in the Docs/ folder of the Lab2 repo.
-
-# 🚨🚨🚨This is not the authoritative copy of this teams documentation.🚨🚨🚨
+## ```team_sw_metrics.xlsx```
+This file should be updated by every individual team member after the completion of each lab.
